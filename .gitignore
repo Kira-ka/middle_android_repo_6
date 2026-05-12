@@ -1,0 +1,25 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.dex
+
+.gradle/
+build/
+
+local.properties
+
+*.log
+
+/.idea/*
+*.iws
+*.iml
+*.ipr
+
+*/proguard/
+
+.DS_Store
+Thumbs.db
+
+captures/
+.externalNativeBuild/
